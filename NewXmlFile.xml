@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<college>
+
+	<student>
+		<firstName>Anil</firstName>
+		<middleName>Suresh</middleName>
+		<lastName>Yadav</lastName>
+		<branch> IT  </branch>
+	</student>
+
+	<student>
+		<firstName>Sunil</firstName>
+		<middleName>Ramesh</middleName>
+		<lastName>Patil</lastName>
+		<branch> IT  </branch>
+	</student>
+
+	<student>
+		<firstName>Sonali</firstName>
+		<middleName>Kedar</middleName>
+		<lastName>Jadhav</lastName>
+		<branch> EXTC  </branch>
+	</student>
+
+	<student>
+		<firstName>Rupali</firstName>
+		<middleName>Rajesh</middleName>
+		<lastName>Kale</lastName>
+		<branch> B.Sc</branch>
+	</student>
+
+	<student>
+		<firstName>Rupali</firstName>
+		<middleName>Rajesh</middleName>
+		<lastName>Kale</lastName>
+		<branch> Extc </branch>
+	</student>
+	
+</college>
